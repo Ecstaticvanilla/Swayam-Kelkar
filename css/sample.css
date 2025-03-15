@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+main{
+    color: slategray;
+}
+button{
+    color: peachpuff;
+    background-color:  slategray;
+}
+h1{
+    font-size: 1000px;
+}
